@@ -11,7 +11,6 @@
   <img src="docs/screenshots/tray-menu.png" width="220" alt="Tray menu">
 </p>
 
-> Screenshots are rendered from the real UI; the mic state is simulated because they were generated on a machine without a microphone.
 
 ## Why
 
